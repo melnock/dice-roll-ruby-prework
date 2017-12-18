@@ -4,5 +4,5 @@
 
 def roll
   dice[1..6].sample
-  rand(1..6) # code goes here
+  
 end
